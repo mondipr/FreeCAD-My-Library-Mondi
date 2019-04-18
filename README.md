@@ -1,9 +1,9 @@
 # Freecad key chain library
-A library of 3D printable open source key chains designed in Freecad
+This is my library of all my 3D design in FreeCAD, This world for me is new but LET GO...!!!
 
 <img src="fICHA tRIVIAL.png" width="300" align="center"> | <img src="maga.png" width="300" align="center">
 :-------------: | :-------------:
-This is my 3D Design of FreeCAD. | 3d printed version 
+Trivial 3D Design. | Text 3d Design
 
 # License 
 
